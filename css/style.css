@@ -135,7 +135,6 @@ a {
 
 .hero-side p {
     color: #4E4D4D;
-    font-size: 20px;
     margin-bottom: 12px;
 }
 
@@ -293,7 +292,7 @@ a {
     }
 
     .main-hero {
-        height: 320px;
+        min-height: 320px;
         padding: 25px;
         border-radius: 20px;
     }

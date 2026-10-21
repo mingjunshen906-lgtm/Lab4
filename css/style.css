@@ -1,5 +1,4 @@
-
-/* General Styles */
+/* General Styles-Mobile First*/
 * {
     margin: 0;
     padding: 0;
@@ -51,7 +50,7 @@ a {
 /* Main Container */
 .container {
     width: 100%;
-    padding: 0 80px;
+    padding: 0 16px;
     margin: 0 auto;
 }
 
@@ -314,7 +313,7 @@ a {
 
     /* Sidebar */
     .hero-side {
-        height: 320px;
+        min-height: 320px;
         padding: 25px;
         border-radius: 20px;
     }
